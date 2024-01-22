@@ -2,9 +2,8 @@
 
 1. Introduction
    
-    - Sundown Studio is a full-service creative agency that specializes in experiential marketing, retail experience, events, popups, consumer experience, and digital content. They offer creative strategy, branding, experience design, 2D & 3D design, and full project management 🌟🚀.
-<br>
-This website recognized on Awwwards, a prestigious platform for design excellence. And website name's SUNDOWN-STUDIO.<br>
+    - Sundown Studio is a full-service creative agency that specializes in experiential marketing, retail experience, events, popups, consumer experience, and digital content. They offer creative strategy, branding, experience design, 2D & 3D design, and full project management 🌟🚀.<br>
+   - This website recognized on Awwwards, a prestigious platform for design excellence. And website name's SUNDOWN-STUDIO.<br>
 <br>
 
 3. Project Overview
