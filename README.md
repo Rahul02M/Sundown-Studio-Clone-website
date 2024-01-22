@@ -6,7 +6,7 @@
    - This website recognized on Awwwards, a prestigious platform for design excellence. And website name's SUNDOWN-STUDIO.<br>
 <br>
 
-3. Project Overview
+2. Project Overview
  
    “I crafted a single-page(clone) website using HTML, CSS, JavaScript,locomotive js (for smooth scrolling ) swipe js(for Slider) remixicon(for icon), and  Additionally, I ensured that the website is fully responsive across various devices👨‍💻📱.”<br>
    - “From the Sundown Studio website, I learned more about web development, designing, animation, and creativity. While creating, I had a good experience and learned new things⏳.”<br>
