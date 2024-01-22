@@ -8,10 +8,10 @@
 
 3. Project Overview
  
-   “I crafted a single-page(clone) website using HTML, CSS, JavaScript,locomotive js (for smooth scrolling ) swipe js(for Slider) remixicon(for icon), and  Additionally, I ensured that the website is fully responsive across various devices👨‍💻📱.”
-       - “From the Sundown Studio website, I learned more about web development, designing, animation, and creativity. While creating, I had a good experience and learned new things⏳.”
-       - Web development and design can be challenging 👍, but it’s also a lot of fun😉. Enjoy the process and don’t be afraid to experiment and try new things!
-       - Happy coding! 🌟🚀
+   “I crafted a single-page(clone) website using HTML, CSS, JavaScript,locomotive js (for smooth scrolling ) swipe js(for Slider) remixicon(for icon), and  Additionally, I ensured that the website is fully responsive across various devices👨‍💻📱.”<br>
+   - “From the Sundown Studio website, I learned more about web development, designing, animation, and creativity. While creating, I had a good experience and learned new things⏳.”<br>
+   - Web development and design can be challenging 👍, but it’s also a lot of fun😉. Enjoy the process and don’t be afraid to experiment and try new things!<br>
+   - Happy coding! 🌟🚀
    
 3 . Screenshots
 
