@@ -16,7 +16,8 @@
         - Animation
         - Content
         - Functionality
-        - Shoutouts to YouTube Videos(@Sheryians Coding School)
+        - Shoutouts to YouTube Videos(@Sheryians Coding School) and @saarthack
+
    
 3 . Screenshots
 
